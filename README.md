@@ -10,4 +10,7 @@ A simple calculator built using Python.
 
 ## 💻 How to Run:
 ```bash
-python calc.py
+python calculator.py
+
+##Auhor
+TM Poorvika
