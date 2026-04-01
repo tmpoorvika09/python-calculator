@@ -1,2 +1,13 @@
 # python-calculator
-Simple calculator program using Python
+
+A simple calculator built using Python.
+
+## 📌 Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## 💻 How to Run:
+```bash
+python calc.py
